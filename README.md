@@ -49,8 +49,7 @@ The notebook explores various machine learning models to tackle the given proble
 * Logistic Regression
 * Decision Tree
 * Random Forest
-* Support Vector Machine (SVM)
-* Neural Networks
+* K-Neighbors
 
 Each model is rigorously evaluated using relevant metrics to identify the best performer on the test set.
 
