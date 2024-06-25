@@ -1,7 +1,5 @@
 # End-to-End Heart Disease Classification
 
-![Heart Disease Classification](https://via.placeholder.com/728x90.png?text=Heart+Disease+Classification) 
-
 ## Overview
 
 This repository contains an end-to-end pipeline for classifying heart disease using machine learning techniques. The project covers data preprocessing, feature engineering, model training, evaluation, and deployment, providing a comprehensive solution for heart disease prediction.
